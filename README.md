@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theabudde
 - 👀 I’m interested in computational physics
-- 🌱 I’m currently learning about monte carlo simulations
+- 🌱 I’m currently learning about Monte Carlo simulations
 - 📫 How to reach me tbudde@student.ethz.ch
 
 <!---
